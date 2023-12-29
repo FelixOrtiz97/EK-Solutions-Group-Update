@@ -1,0 +1,18 @@
+.smallgrey {
+    text-align: center;
+    box-sizing: content-box;
+    height: 0;
+    border: 0;
+    letter-spacing: normal;
+    text-transform: none;
+    font-family: 'Source Sans Pro', arial, sans-serif;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    border-color: rgb(226, 226, 226);
+    border-style: solid;
+    width: 50px;
+    margin-bottom: 24px;
+    border-bottom-width: 1px;
+}
